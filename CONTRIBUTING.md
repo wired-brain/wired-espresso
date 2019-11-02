@@ -2,6 +2,10 @@
 
 Hi! Thanks for your interest in contributing to this project!
 
+## Before Contributing
+
+Please review our open issues tagged [good first issue](https://github.com/kamranayub/pluralsight-contributing-to-open-source/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22good+first+issue%22) or [help wanted](https://github.com/kamranayub/pluralsight-contributing-to-open-source/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22help+wanted%22). We also expect you to follow and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
+
 ## Getting Started
 
 To ensure the best experience getting the project going on your local machine, you'll need:
