@@ -1,0 +1,22 @@
+{
+  "name": "wired-espresso",
+  "version": "1.0.0",
+  "description": "The #1 espresso machine framework in the open source community.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamranayub/wired-espresso.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamranayub/wired-espresso/issues"
+  },
+  "homepage": "https://github.com/kamranayub/wired-espresso#readme",
+  "devDependencies": {
+    "typescript": "^3.7.2"
+  }
+}
