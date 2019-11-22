@@ -1,3 +1,7 @@
+<p align="center">
+  <em>ℹ This is an example repository designed for the Contributing to an Open Source Project on GitHub course on Pluralsight</em>
+</p>
+
 # Wired Espresso
 
 ☕ An open source JS framework for popular espresso machines, from Wired Brain.
