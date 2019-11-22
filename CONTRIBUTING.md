@@ -1,6 +1,6 @@
 # Contributing 📝
 
-Hi! 👋 Thnks for your interest in contributing to this project! If you're new, welcome ✨ and be sure to review the following guide about what's expected!
+Hi! 👋 Thanks for your interest in contributing to this project! If you're new, welcome ✨ and be sure to review the following guide about what's expected!
 
 ## Before Contributing
 
