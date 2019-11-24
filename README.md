@@ -19,3 +19,5 @@ We ❤ contributors, see our [Contributing Guide](CONTRIBUTING.md) for how to ge
 ## License
 
 This project is licensed under [the Apache 2.0 license](LICENSE).
+
+Copyright 2019 Kamran Ayub
