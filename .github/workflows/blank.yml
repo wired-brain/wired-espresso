@@ -9,5 +9,13 @@ jobs:
 
     steps:
     - uses: actions/checkout@v1
-    - name: Run tests
-      run: npm test
+    - uses: actions/setup-node@v1
+      with:
+        node-version: 10.x
+    - name: Build and test
+      run: |
+        npm install
+        npm run build
+        npm test
+    env:
+      CI: true
