@@ -12,8 +12,8 @@ export function applyRequestedTemperature(temp: number) {
     case DeviceMakeModel.LUCCA_M58:
       if (version === 2) {
         TemperatureContext.requestedTemperature = temp - 1;
+        break;
       }
-      break;
     default:
       TemperatureContext.requestedTemperature = temp;
       break;
