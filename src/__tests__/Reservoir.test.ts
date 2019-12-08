@@ -13,4 +13,12 @@ describe("Reservoir", () => {
       `Code: ${WATER_ABOVE_THRESHOLD_ERROR}`
     );
   });
+  
+  it('should validate water is 0 or above', () => {
+    setWaterLevel(0)
+    expect(validate()).toBe(true);
+
+    setWaterLevel(-1)
+    expect(validate()).toBe(false);
+  })
 });
