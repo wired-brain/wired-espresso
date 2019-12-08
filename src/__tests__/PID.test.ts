@@ -37,7 +37,7 @@ describe("applyRequestedTemperature", () => {
 
     applyRequestedTemperature(205);
 
-    expect(TemperatureContext.requestedTemperature).toBe(205);
+    expect(TemperatureContext.requestedTemp).toBe(205);
   });
 
   it("should set temp context appropriately", () => {
