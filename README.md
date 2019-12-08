@@ -19,7 +19,7 @@ We ❤ contributors, see our [Contributing Guide](CONTRIBUTING.md) for how to ge
 ## Known Issues
 
 - **LUCCA M58 v2**
-  - This model has a known issue where the requested temperature input from the user is higher (by 1 degree) when it is reported to the firmware. Our code will subtract the extra amount to maintain the correct requested temperature. e.g. Entering `205` on the digital display will send `206` to the software and we will normalize it back to `205`. The **V3** model does have this same issue.
+  - This model has a known issue where the requested temperature input from the user is higher (by 1 degree) when it is reported to the firmware. Our code will subtract the extra amount to maintain the correct requested temperature. e.g. Entering `205` on the digital display will send `206` to the software and we will normalize it back to `205`. The **V3** model does _not_ have this same issue.
 
 ## License
 
