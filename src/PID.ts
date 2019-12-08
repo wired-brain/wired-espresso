@@ -2,7 +2,7 @@ import { DeviceContext } from './DeviceContext';
 import { DeviceMakeModel } from './Devices';
 
 export const TemperatureContext = {
-  requestedTemperature: 195
+  requestedTemp: 195
 }
 
 export function applyRequestedTemperature(temp: number) {
@@ -10,10 +10,10 @@ export function applyRequestedTemperature(temp: number) {
 
   switch (makeAndModel) {
     case DeviceMakeModel.LUCCA_M58:
-      TemperatureContext.requestedTemperature = temp - 1;
+      TemperatureContext.requestedTemp = temp - 1;
       break;
     default:
-      TemperatureContext.requestedTemperature = temp;
+      TemperatureContext.requestedTemp = temp;
       break;
   }
 }
