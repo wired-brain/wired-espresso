@@ -1,5 +1,5 @@
 <p align="center">
-  <em>ℹ This is an example repository designed for the Contributing to an Open Source Project on GitHub course on Pluralsight</em>
+  <em>ℹ This is an example repository designed for the <a href="https://github.com/kamranayub/pluralsight-contributing-to-open-source-github">Contributing to an Open Source Project on GitHub course on Pluralsight</a></em>
 </p>
 
 # Wired Espresso
